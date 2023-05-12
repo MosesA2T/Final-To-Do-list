@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.loyaltyy.app-mergeDebugResources-52:/layout/activity_login.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.loyaltyy.app-main-55:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.loyaltyy.app-mergeDebugResources-52:/layout/activity_splashscreen.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.loyaltyy.app-main-55:/layout/activity_splashscreen.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.loyaltyy.app-mergeDebugResources-52:/layout/activity_home.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.loyaltyy.app-main-55:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.loyaltyy.app-mergeDebugResources-52:/layout/fragment_dashboard.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.loyaltyy.app-main-55:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.loyaltyy.app-mergeDebugResources-52:/layout/fragment_notifications.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.loyaltyy.app-main-55:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.loyaltyy.app-mergeDebugResources-52:/layout/fragment_home.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.loyaltyy.app-main-55:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-mergeDebugResources-52:/layout/activity_add_task.xml",
+        "source": "com.example.loyaltyy.app-main-55:/layout/activity_add_task.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-mergeDebugResources-52:/layout/activity_main.xml",
+        "source": "com.example.loyaltyy.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.loyaltyy.app-mergeDebugResources-52:/layout/activity_add_task.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.loyaltyy.app-main-55:/layout/activity_add_task.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.loyaltyy.app-mergeDebugResources-52:/layout/activity_main.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.loyaltyy.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.loyaltyy.app-mergeDebugResources-52:/layout/activity_update_task.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.loyaltyy.app-main-55:/layout/activity_update_task.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.loyaltyy.app-mergeDebugResources-52:/layout/view.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.loyaltyy.app-main-55:/layout/view.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.loyaltyy.app-mergeDebugResources-52:/layout/activity_register.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.loyaltyy.app-main-55:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-mergeDebugResources-52:/layout/view.xml",
+        "source": "com.example.loyaltyy.app-main-55:/layout/view.xml"
+    }
+]
